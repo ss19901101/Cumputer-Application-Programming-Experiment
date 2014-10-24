@@ -1,4 +1,6 @@
-Cumputer-Application-Programming-Experiment
+Cumputer Application Programming Experiment
 ===========================================
 
 lab for class
+
+pubulished by shenshuo
